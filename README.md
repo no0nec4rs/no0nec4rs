@@ -1,8 +1,8 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Josell - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Hi, i'm Josell, this is a profile of mine where i do nothing for now. Thanks for read this. 
+## Hi, this is a profile of mine where i do nothing for now. Thanks for read this. 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc. I'm lying btw, i know nothing for now. I've been dying lately instead.
 - 📚 I’m currently learning everything about Frontend and Backend technologies. 
