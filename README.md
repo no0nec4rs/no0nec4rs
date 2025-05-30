@@ -1,6 +1,6 @@
 # Hi there, I'm Josell - aka [no0nec4rs][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="Gojo Satoru GIF" height="160px" src="https://media.tenor.com/FPHqNpa9J1MAAAAC/gojo-satoru.gif" />
 
 ## Hi, this is a profile of mine where i do nothing for now. Thanks for read this. 
 
