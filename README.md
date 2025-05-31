@@ -74,7 +74,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### ⭐️ From [nadie](https://github.com/Bgstatic) ### 
 
 ---
 
@@ -85,6 +85,5 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
 
 Last Edited on: 23/09/2020
