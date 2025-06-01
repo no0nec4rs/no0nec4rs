@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Hi, this is a profile of mine where i do nothing for now. Thanks for read this. 
-
+## fck everyone
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc. I'm lying btw, i know nothing for now. I've been dying lately instead.
 - 📚 I’m currently learning everything about Frontend and Backend technologies. 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
