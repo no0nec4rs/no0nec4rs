@@ -3,10 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## fck everyone
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc. I'm lying btw, i know nothing for now. I've been dying lately instead.
-- 📚 I’m currently learning everything about Frontend and Backend technologies. 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: there's not one 🎱.
+- why people not just killing themselves 
 
 ---
 
